@@ -70,11 +70,66 @@ c) Region with high temperature are Uttarpradesh, Rajasthan, Delhi .
 
 ![plot](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/e17f02da-3cd5-4b20-b499-a3bd61ea75a0)
 ![newplot (2)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/69230f60-71ec-4de4-89d1-b2eee216db93)
-![download](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/8d2a6f5a-7db0-4bf5-bdd2-0fed790d6f08)
+![download (13)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/87a68ead-ac08-4570-ae0b-76d8f8bd5c93)
 ![newplot (1)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/11571238-dbf4-4a52-9743-9fb1e534f2ed)
 ![download (10)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/868ec520-0da0-4d0c-b9e6-cb42ce5baf1a)
 ![download (12)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/fdee0869-b6e8-405e-a814-541b83bee1e1)
 
+a) AQI PM2.5 -
+
+      # Delhi has highest AQI PM2.5 of 470.
+      # The average AQI PM2.5 of delhi is 120.
+      # The lowest AQI PM2.5 of delhi is 20.
+      # Andaman and nicobar island has lowest AQI PM2.5 .
+      
+b) AQI PM10 -
+
+      # Delhi has highest AQI PM10 of 670.
+      # The average AQI PM10 of delhi is 180.
+      # The lowest AQI PM10 of delhi is 30.
+      # Andaman and nicobar island has lowest AQI PM10 .
+      
+c) AQI Nitrogen dioxide.
+
+      # Delhi has highest AQI NO2 of 75.
+      # The average AQI NO2 of delhi is 31.
+      # The lowest AQI NO2 of delhi is 6.
+      # Andaman and nicobar island has lowest AQI NO2 .
+      
+
+ d) AQI Sulphur dioxide.
+
+      # Delhi has highest AQI SO2.
+      # West bengal, chhattisgarh and Haryana have high AQI SO2
+      # Arunachal Pradesh, Mizoram and Andaman and nicobar island have low AQI SO2 .
+
+e) AQI Carbon Monoxide.
+
+      # Delhi has highest AQI CO of 2000+.
+      # Punjab ,West bengal, chhattisgarh , Uttarpradesh, Haryana have high AQI CO
+      # Lakshadweep ,Daman and Diu, Mizoram, Arunachal Pradesh have low AQI CO.
+
+### UV index of different region?.
+
+![download (6)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/672fc094-838e-4836-b9db-cc300da3d9f8)
+![download (7)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/02489717-ce99-4fd5-ac26-73ebabb34cd4)
+
+
+
+
+
+### How Humidity Changes with Temperature across different region ?.
+
+![newplot (3)](https://github.com/Gaurav1917/Indian-Weather-project/assets/146158309/887641e4-7cac-44a9-a8b0-5483099b8b3b)
+
+
+
+
+
+      
+    
+      
+    
 
 
 
